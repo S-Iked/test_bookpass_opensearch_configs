@@ -1,0 +1,226 @@
+{
+  "settings": {
+    "index": {
+      "number_of_shards": "1",
+      "number_of_replicas": "1",
+      "refresh_interval": "15s",
+      "similarity": {
+        "my_similarity": {
+          "type": "scripted",
+          "script": {
+            "source": "return query.boost * (doc.freq >= 1.0 ? 1.0 : doc.freq);"
+          }
+        }
+      },
+      "analysis": {
+        "filter": {
+          "jp_synonym_filter": {
+            "type": "synonym_graph_s4",
+            "synonyms_path": "synonym_jp.txt"
+          },
+          "jp_graph_synonym_filter": {
+            "type": "synonym_graph_s4",
+            "synonyms_path": "synonym_jp_search.txt"
+          },
+          "synonym_series_filter": {
+            "type": "synonym_s4",
+            "synonyms_path": "synonym_series.txt"
+          }
+        },
+        "char_filter": {
+          "jp_mapping": {
+            "type": "mapping",
+            "mappings_path": "mapping_jp.txt"
+          },
+          "jp_mapping2": {
+            "type": "mapping",
+            "mappings_path": "mapping_jp2.txt"
+          },
+          "number_norm": {
+            "pattern": ",(\\d{3})",
+            "type": "pattern_replace",
+            "replacement": "$1"
+          }
+        },
+        "normalizer": {
+          "lowcase_normalizer": {
+            "filter": [
+              "lowercase"
+            ],
+            "type": "custom",
+            "char_filter": [ ]
+          }
+        },
+        "analyzer": {
+          "ngram_analyzer": {
+            "char_filter": [
+              "jp_mapping",
+              "jp_mapping2",
+              "number_norm"
+            ],
+            "tokenizer": "ngram_tokenizer"
+          },
+          "jp_search_analyzer": {
+            "filter": [
+              "synonym_series_filter",
+              "jp_synonym_filter",
+              "jp_graph_synonym_filter"
+            ],
+            "char_filter": [
+              "jp_mapping",
+              "jp_mapping2",
+              "number_norm"
+            ],
+            "type": "custom",
+            "tokenizer": "ss_kuromoji"
+          },
+          "exact_analyzer": {
+            "filter": [
+              "lowercase"
+            ],
+            "char_filter": [
+              "jp_mapping",
+              "jp_mapping2",
+              "number_norm"
+            ],
+            "tokenizer": "keyword"
+          },
+          "jp_analyzer": {
+            "filter": [
+              "synonym_series_filter",
+              "jp_synonym_filter"
+            ],
+            "char_filter": [
+              "jp_mapping",
+              "jp_mapping2",
+              "number_norm"
+            ],
+            "type": "custom",
+            "tokenizer": "ss_kuromoji"
+          }
+        },
+        "tokenizer": {
+          "ss_kuromoji": {
+            "mode": "search",
+            "user_dictionary": "userdict_jp.txt",
+            "type": "kuromoji_tokenizer",
+            "discard_punctuation": "true",
+            "discard_compound_token": "true"
+          },
+          "ngram_tokenizer": {
+            "token_chars": [
+              "letter",
+              "digit"
+            ],
+            "type": "nGram",
+            "min_gram": "1",
+            "max_gram": "2"
+          }
+        }
+      }
+    }
+  },
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "query": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_analyzer",
+        "search_analyzer": "jp_search_analyzer",
+	"copy_to": ["query_exact", "query_ngram"]
+      },
+      "query_ngram": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "ngram_analyzer"
+      },
+      "query_norm": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_analyzer",
+        "search_analyzer": "jp_search_analyzer"
+      },
+      "query_kana": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "ngram_analyzer",
+	"copy_to": "query_exact_kana"
+      },
+      "query_romaji": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "ngram_analyzer",
+	"copy_to": "query_exact_romaji"
+      },
+      "query_exact": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "exact_analyzer"
+      },
+      "query_exact_kana": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "exact_analyzer"
+      },
+      "query_exact_romaji": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "exact_analyzer"
+      },
+      "query_length": {
+        "type": "integer",
+        "index": true
+      },
+      "num_tokens": {
+        "type": "integer",
+        "index": true
+      },
+      "type": {
+        "type": "keyword",
+        "index": true
+      },
+      "score1": {
+        "type": "float",
+        "index": true
+      },
+      "score2": {
+        "type": "float",
+        "index": true
+      },
+      "score3": {
+        "type": "float",
+        "index": true
+      },
+      "updated_at": {
+        "type": "long",
+        "index": true,
+        "doc_values": false
+      }
+    }
+  }
+}

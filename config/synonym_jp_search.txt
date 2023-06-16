@@ -1,0 +1,1999 @@
+ii,2
+iii,3
+iv,4
+vi,6
+vii,7
+viii,8
+ix,9
+xi,11
+xii,12
+xiii,13
+xiv,14
+xvi,16
+xvii,17
+xviii,18
+
+セーバー => セーバー,セイバー
+煮 => 煮, 煮込
+おかし=>おかし,お菓子
+ようかい,妖怪
+チョコ,チョコレート
+ニオイ=>ニオイ,匂い,臭い
+マクド=>マクド,マクドナルド
+ラノベ,ライトノベル
+値段,価格
+ニホン=>日本,ニホン
+すし=>すし,寿司
+ハカー,ハッカー
+いちご,イチゴ,苺
+レズ,レズビアン
+山椒魚,サンショウウオ
+あゆ=>あゆ,鮎
+ニコニコ 生放送,ニコ 生
+
+pixar,ピクサー
+silent siren,サイレント サイレン
+
+マンチェスター ユナイテッド,マン u,マンチェスター u
+エスパ ドリュー, エスパ ドリーユ
+
+よこすか,横須賀
+フル オケ=>フル オケ,フル オーケストラ
+
+テレビ 朝日,テレ 朝
+日本 テレビ,日 テレ
+東京 mx,tokyo mx
+テレ 東,テレビ 東京
+東京 fm,tokyo fm
+
+j wave,ジェイ ウェイブ
+final fantasy, ファイナル ファンタジー
+セイント => 聖闘士,セイント
+セイント セイヤ, 聖闘士 星矢
+
+summer sonic,サマー ソニック
+rock in japan, ロック イン ジャパン
+fuji rock, フジ ロック
+
+デア ゴスティーニ, ディア ゴスティーニ
+美容 院,美容 室
+キンニク=>キンニク,キン肉
+全日空,ana
+のっとり=>のっとり,則り,乗っ取り
+おかみ=>おかみ,女将,お上
+面子=>面子,めんこ,メンツ
+タマゴ=>タマゴ,卵,玉子
+きみ=>きみ,君
+しま 模様,縞 模様
+つめ,ツメ=>つめ,ツメ,爪
+うまい=>うまい,美味い,上手い,旨い
+せき=>せき,咳
+かぜ=>かぜ,風邪
+はな=>はな,鼻,花
+こい=>こい,コイ,恋,鯉
+コイ=>コイ,恋,鯉
+にく=>にく,肉
+タコ=>タコ,蛸,凧
+蛸=>タコ,蛸
+あげ=>あげ,上げ,揚げ,挙げ
+ぱん=>ぱん,パン
+なす=>なす,ナス,なすび,那須
+ナス=>ナス,なすび
+がん=>がん,癌
+いか,イカ
+てんし=>てんし,天使
+ねり=>ねり,煉り,練り
+もみ=>もみ,モミ,揉み
+あつい=>あつい,暑い,熱い,厚い,アツイ,アツい
+かたい=>かたい,カタイ,堅い,固い,硬い
+かたく=>かたく,硬く,堅く,固く
+できる=>できる,デキる
+ケンタ=>ケンタ,ケンタッキー
+かがみ=>かがみ,鏡
+クリーミー=>クリーミー,クリィミー,クリーミィ
+あらびき,粗挽き
+カキ=>カキ,牡蠣
+かき=>かき,柿,カキ,牡蠣
+ちから=>ちから,力
+コンサル=>コンサル,コンサルティング,コンサルタント
+コンペ=>コンペ,コンペティション
+はやい=>はやい,早い,速い
+リハビリ,リハビリテーション
+辛い=>辛い,つらい,からい
+いたみ=>傷み,痛み,いたみ
+つくる=>つくる,創る,造る,作る
+のし=>のし,ノシ,熨斗
+かなう=>かなう,敵う,叶う
+せいゆう=>せいゆう,声優,西友
+えいが=>えいが,映画,栄華
+どうが=>どうが,動画
+しお=>しお,塩
+くり,クリ=>くり,クリ,栗
+ゆず=>ゆず,柚子
+バレー=>バレー,バレーボール
+とらや,虎屋
+ヨーカ ドー,ヨーカ 堂
+かめ,カメ
+トーホー,toho
+タル=>タル,樽
+レスポ=>レスポ,レスポートサック
+レスポート=>レスポート,レスポートサック
+ニコニコ,niconico
+だに=>だに,ダニ
+ほうろう,ホウロウ,琺瑯
+ジャック オー, ジャック オ
+雀=>雀,すずめ
+オケ=>オケ,桶
+おけ=>おけ,桶
+こめ=>こめ,米
+のみ=>のみ,ノミ,飲み,呑み
+ミーシャ,misia
+サガ,サ・ガ
+おそまつ=>おそまつ,おそ松
+ウイスキー=>ウヰスキー,ウイスキー
+ケンミン ショー,ケンミン show
+すすめ=>すすめ,すゝめ
+プリザ=>プリザ,プリザーブド
+レポジトリ=>リポジトリ,レポジトリ
+メンテ,メンテナンス
+かな=>かな,仮名
+デット プール=>デット プール,デッド プール
+付け 爪,つけ 爪
+たんさん,タンサン=>たんさん,タンサン,炭酸
+ぜんいん,全員
+はち=>はち,ハチ,鉢,蜂
+ハチ=>ハチ,蜂
+ホネ,骨
+たら,タラ=>たら,タラ,鱈
+うちわ=>うちわ,内輪,団扇
+ビン=>ビン,瓶
+蚊 取り,蚊 とり
+ゴック=>ゴック,ゴッグ
+さる,サル=>さる,サル,猿
+せんす=>せんす,扇子
+こま=>こま,コマ
+かぎ=>かぎ,鍵
+kao=>kao,花王
+プワゾン,プアゾン
+てれ=>れて,テレ
+アリババ=>阿里巴巴,アリババ
+わけ=>わけ,訳,分け
+トキオ=>トキオ,tokio
+やまとや,ヤマトヤ=>やまと屋,大和屋,ヤマトヤ,やまとや,yamatoya,ヤマト屋
+たけみかづち=>たけみかづち,タケミカヅチ,建御雷
+あゔぁんだんど=>アヴァンダンド,あヴぁんだんど
+バッファローズ=>バッファローズ,バファローズ
+うつ=>うつ,鬱
+エギゾースト=>エキゾースト,エギゾースト
+それ=>それ,其れ
+オス=>オス,雄,牡
+おす=>おす,オス
+アイフォン=>アイフォン,iphone
+アイホン=>アイホン,iphone
+あいほん=>あいほん,アイホン,iphone
+パラペン=>パラペン,パラベン
+らち=>らち,拉致,埒
+ぬくい=>ぬくい,温い
+ぬくく=>ぬくく,温く
+ぬるい=>ぬるい,温い
+ぬるく=>ぬるく,温く
+かんかく=>かんかく,感覚,間隔
+クルマ=>クルマ,車
+カブト=>カブト,兜
+ゆで タマゴ,茹で 卵
+バンガード=>バンガード,ヴァンガード
+unako=>unako,うな子
+bz=>bz,b'z
+ぶり,ブリ=>ぶり,ブリ,鰤
+ゼット=>ゼット,z,zett
+ジーユー=>ジーユー,gu
+zozo,ゾゾ=>zozo,ゾゾ,ゾゾタウン
+おとこのこ=>おとこのこ,オトコノコ,男の子
+おんなのこ=>おんなのこ,オンナノコ,女の子
+傷 隠し,キズ かくし
+白髪 かくし,白髪 隠し
+ほん=>ほん,本
+ホン=>ホン,フォン
+スイング=>スイング,スウィング
+ぼてじゅう=>ぼてじゅう,ぼてぢゅう
+ガンツ=>ガンツ,gantz
+くりーむ=>くりーむ,クリーム,くりぃむ
+れんが=>れんが,レンガ
+洋梨=>洋梨,西洋梨
+やに=>やに,ヤニ
+ナシ=>ナシ,梨
+なし=>なし,無し
+やつはし=>やつはし,八ツ橋
+ヤツハシ=>ヤツハシ,八ツ橋
+いこか=>いこか,イコカ
+カンテレ=>カンテレ,関テレ
+せんしゃ=>せんしゃ,戦車,洗車
+めんち=>めんち,メンチ
+いくら=>いくら,イクラ
+ドラッガー=>ドラッガー,ドラッカー
+めん棒=>麺棒,綿棒,めん棒
+こめだ=>こめだ,コメダ
+シム=>シム,sim
+ブラウン=>ブラウン,braun
+flag=>flag,フラグ,フラッグ
+gel=>gel,ゲル,ジェル
+ボゥディーズ=>ボゥディーズ,bawdies
+てんさい=>てんさい,天才
+ランウェイ=>ランウェイ,runway
+のり=>のり,海苔,糊
+ブルソン=>ブルソン,ブルゾン
+つええええ=>つええええ,tueeee
+つえええ=>つえええ,tueee
+自己中=>自己中,自己中心
+カトゥーン=>カトゥーン,kat-tun
+印かん=>印かん,印鑑,印環
+バック=>バック,バッグ
+ちくぜん=>ちくぜん,筑前,ちく膳
+ピザ=>ピザ,ピッツァ
+ぶそく=>ぶそく,不足
+ふそく=>ふそく,不足
+ロッド=>ロッド,rod
+なると=>なると,ナルト
+ななつ=>ななつ,七つ
+チエキ=>チエキ,チェキ
+うおがし=>うおがし,魚河岸,魚がし
+クロコ=>クロコ,クロコダイル
+てん茶=>てん茶,甜茶
+ひき茶=>ひき茶,挽き茶
+ちゃり=>ちゃり,チャリ,茶利
+けいえん=>けいえん,敬遠,桂園
+しろおび=>しろおび,シロオビ,白帯
+くろおび=>くろおび,クロオビ,黒帯
+サブカル=>サブカル,サブカルチャー
+リファクタ=>リファクタ,リファクタリング
+モダナイ=>モダナイ,モダナイゼーション
+イーサ=>イーサ,イーサネット
+夜更=>夜更,夜ふけ,夜更かし
+たいばん=>たいばん,胎盤,対バン
+さいたい=>さいたい,臍帯,妻帯
+レビア=>レビア,レヴィア
+リコメン=>リコメン,リコメンデーション
+ヴァイブ=>ヴァイブ,ヴィブラフォン
+図書館=>圕,図書館
+サムゲ=>サムゲ,サムゲタン
+すきや=>すきや,すき家
+たび=>たび,タビ,足袋
+タビ=>タビ,足袋
+せるか=>せるか,セルカ
+せきゅう=>せきゅう,石油
+せきゆ=>せきゆ,石油
+がくてんそく=>がくてんそく,学天即,學天則
+コミコミ=>コミコミ,込み込み,混み混み
+タンドウル=>タンドウル,タンドゥル,タンドール
+セプティーニ=>セプティーニ,セプテーニ
+ソラノオト=>ソラノオト,ソ・ラ・ノ・ヲ・ト
+インプロ=>インプロ,インプロヴァイズ,インプロヴィゼーション
+あやのこうじ=>あやのこうじ,綾小路,あやの小路
+やしおり=>やしおり,ヤシオリ,八塩折
+ざんき=>ザンキ,慙愧,残機
+こうかもん=>こうかもん,皇嘉門,光化門
+ウマズラ=>ウマズラ,ウマヅラ
+クロワッサンス=>クロワッサンス,くろわっさんす
+チャトゥニー=>チャトゥニー,チャツネ
+とっか=>とっか,トッカ,tocca
+トッカ=>トッカ,tocca
+長 ざいふ=>長 ざいふ,長 財布
+なが ざいふ=>なが ざいふ,長 財布
+キカ シシュウ=>キカ シシュウ,幾何 刺繍
+付け まつ毛=>付け まつ毛,ツケ まつ毛
+だんまつま=>だんまつま,ダンまつま,断末魔
+イレ ヘム=>イレ ヘム,イレギュラー ヘム
+ムーフィー=>ムーフィー,ムーフィ
+オズコ=>オズコ,ozuko
+インターン=>インターン,インターンシップ
+キューベー=>qb,キュゥべえ
+ただしち=>ただしち,唯七
+まいせん=>まいせん,マイセン,まい泉
+スタアライト=>スタアライト,スタァライト
+ひきゅう=>ひきゅう,ヒキュウ,貔貅
+ヒキュウ=>ヒキュウ,貔貅
+スイミツ=>スイミツ,水密,水蜜
+リリイ=>リリイ,リリィ
+シンダフリ=>シンダフリ,死んだふり
+ファクシミリ=>ファクシミリ,ファックス
+さしがね=>さしがね,差金,差し金,指矩
+差金=>差金,差し金
+指矩=>指矩,差し金
+さきん=>さきん,砂金,差金
+トムヤンクン=>トムヤンクン,トムヤムクン
+ねこまる=>ねこまる,猫まる,猫丸,ネコまる
+ばてい=>ばてい,馬丁,馬蹄
+らいこうじ=>らいこうじ,来迎寺
+トレビアーノ=>トレビアーノ,トレッビアーノ
+w杯,ワールドカップ
+祭り=>祭り,お祭り
+かみうさぎ=>かみうさぎ,紙兎
+宅飲み,うち飲み,家飲み
+つまみ=>つまみ,おつまみ
+はえ=>はえ,ハエ
+デカフェ=>デカフェ,カフェインレス
+パイパイ=>パイパイ,ぱいぱい
+がびし=>がびし,峨嵋刺
+ビバーチェ=>ビバーチェ,ヴィヴァーチェ
+トモロー=>トモロー,トゥモロー
+番菜=>番菜,おばんさい
+ツルナシ=>ツルナシ,蔓無し
+はなさか=>はなさか,花咲か
+ズーム=>ズーム,zoom
+どさんこ=>どさんこ,道産子,どさん子
+クロカミ=>クロカミ,黒髪
+バスドラ=>バスドラ,バスドラム
+アイオーブ=>アイオーブ,アイオーヴ
+ホウキボシ=>ホウキボシ,ほうき星
+きぬごし=>きぬごし,絹ごし
+トラゴロウ=>トラゴロウ,虎五郎,寅五郎,トラ五郎
+イアリング=>イアリング,イヤリング
+ヌエ=>ヌエ,鵺
+ヌエコ=>ヌエコ,鵺子,夜鳥子
+えぶりでぃ=>えぶりでぃ,エブリデイ
+アテローム,粉瘤
+たいそう=>たいそう,体操
+らいん=>らいん,ライン,line
+ライン=>ライン,line
+えーゆー=>えーゆー,エーユー,au
+エーユー=>エーユー,au
+こうらくえん=>こうらくえん,後楽園,幸楽苑,幸楽園
+かんぱん=>かんぱん,肝斑,乾パン
+べっと=>べっと,ベッド
+てつまん=>てつまん,徹マン,鉄万
+ゆりあん=>ユリアン,ゆりやん,ゆりあん
+爪津姫=>爪津姫,爪津姫命
+リアルフォース=>リアルフォース,realforce
+りょうめん=>りょうめん,両面
+ヴァレトン=>ヴァレトン,バレトン
+ネギマ=>ネギマ,ねぎま,ネギま
+せご=>せご,西郷
+ケンラク=>ケンラク,健楽
+兵児 おび=>兵児 おび, 兵児 帯
+ヌピ=>ヌピ,ヌビ
+ユーブイ=>ユーブイ,uv
+ヘア カフ=>ヘア カフ,ヘアー カフ
+ほ乳 瓶=>ほ乳 瓶,ほ乳 ビン
+
+4 コマ,四 コマ
+
+win 版, windows 版
+ニコ 動,ニコニコ 動画
+
+斜め 掛け,斜め がけ
+し にくい,し 難い
+
+釜 あげ,釜 揚げ
+めん つゆ,麺 つゆ
+牛 タン,牛 たん
+鶏 がら,鶏 ガラ
+
+何処 か,どこ か
+元 彼,元 カレ
+
+t rex, t レックス
+g ショック,g shock
+フロム a,フロム エー,from a
+綿 菓子,綿 飴,綿 あめ
+ポテト チップ,ポテト チップス
+
+毛羽 先,手羽 先
+
+ラン シュー,ランニング シューズ
+
+rock star, ロック スター
+hip hop, ヒップ ホップ
+new balance, ニュー バランス
+
+ps 3,playstation 3
+ps 4,playstation 4
+ps 5,playstation 5
+ps vita, playstation vita
+
+x files, x ファイル
+sound track, サウンド トラック
+power point, パワー ポイント
+star wars,スター ウォーズ
+
+デビル メイ クライ,devil may cry
+バトル フィールド,battle field
+ファー クライ,far cry
+頭文字 d, イニシャル d
+マクロス Δ,マクロス デルタ
+マクロス f,マクロス フロンティア
+
+ポルノ グラフティ, ポルノ グラフィティ
+
+seymour duncan, セイモア ダンカン
+dimarzio,ディマジオ
+tom anderson, トム アンダーソン
+james tyler,ジェイムス タイラー
+b c rich,b c リッチ
+
+てんとう むし,テントウ ムシ,天道 虫,てんとう 虫
+ノン アル,ノン アルコール
+
+大分 商,大分 商業
+三沢 商,三沢 商業
+秋田 商,秋田 商業
+高岡 商,高岡 商業
+下関 商,下関 商業
+津 商,津 商業
+鹿児島 実,鹿児島 実業
+国際 大 付,国際 大学 付属
+中京 大,中京 大学
+東海 大, 東海 大学
+
+マンチェスター シティ,マン c
+
+loto 7,ロト 7
+loto 6,ロト 6
+
+出逢い 系,出会い 系
+
+東横 inn,東横 イン
+
+タージ マハール,タージ マハル
+ラージ マハール,ラージ マハル
+
+smart news,スマート ニュース
+red bull,レッド ブル
+ほうれい 線,豊麗 線,法令 線
+フェアリー ダンス,フェアリィ ダンス
+蛍 烏賊,ホタル イカ
+槍 烏賊,ヤリ イカ
+鯣 烏賊,スルメ イカ
+墨 烏賊,スミ イカ
+
+むらさき 芋, 紫 芋
+アルファ go,アルファ 碁
+ドッチ ボール,ドッヂ ボール
+カミ コベ,カミング コーベ, comin kobe
+ジャニーズ jr,ジャニーズ ジュニア
+レスポール ジュニア,レスポール jr
+tv ドラマ,テレビ ドラマ
+tv アニメ,テレビ アニメ
+ニベア サン,ニベア sun
+きせ の さと=>稀勢 の 里
+せっき せい=>せっき せい,雪肌 精
+せっき すい=>せっき すい,雪肌 粋
+二重 まぶた,ふたえ まぶた
+なん や かん や,何 や かん や
+セシル マクビー,cecil mcbee
+オッジ オット=>オッジ オット,オッジィ オット
+ヘリン ボン,ヘリン ボーン
+リオ 五輪, リオデジャネイロ 五輪
+ヤン ジャン,ヤング ジャンプ
+ガンダム uc,ガンダム ユニコーン
+ひげ 張,ひげ ちょう,鬍鬚 張
+ニューラル ネット,ニューラル ネットワーク
+ずる 休み,ズル 休み
+オー マイ ゴッド,oh my god
+アカチャン ホンポ,あかちゃん 本舗
+の たて=>の たて,の 盾
+ほし ふる,星 降る
+チェン ソー=>チェン ソー,チェーン ソー
+冬 じたく,冬 支度
+馳 浩,はせ 浩
+レイナード スキナード,レーナード スキナード
+2 way,2 ウェイ
+3 way,3 ウェイ
+やたら 編み=>やたら 編,やたら 編み
+ドビー 編み=>ドビー 編,ドビー 編み
+石畳 編み=>石畳 編,石畳 編み
+四つ 目 編み=>四つ 目 編,四つ 目 編み
+八つ 目 編み=>八つ 目 編,八つ 目 編み
+パイナップル 編み=>パイナップル 編,パイナップル 編み
+リブ 編み=>リブ 編,リブ 編み
+タック 編み=>タック 編,タック 編み
+天竺 編み=>天竺 編,天竺 編み
+フライス 編み=>フライス 編,フライス 編み
+リバーシブル 編み=>リバーシブル 編,リバーシブル 編み
+ダブル フェイス 編み=>ダブル フェイス 編,ダブル フェイス 編み
+かぎ針 編み=>かぎ針 編,かぎ針 編み
+ガンツ オー=>ガンツ オー,gantz o
+チョン ブリ=>チョン ブリー
+バンスー,バーンスー
+こども チャレンジ=>こども チャレンジ, こども ちゃれんじ
+クレーム フレーシュ,クレーム フレッシュ
+クレーム ダマンド, クレム ダマンド
+日 ハム,日本 ハム
+大統領 選,大統領 選挙
+シガレット ライター,シガー ライター
+シガレット ソケット,シガー ソケット
+こめ だわら,米 俵
+ファン タビ,ファンタスティック ビースト
+恥ずかしがり や=>恥ずかしがり や,恥ずかしがり 屋
+寂しがり や=>寂しがり や,寂しがり 屋
+面倒くさがり や=>面倒くさがり や,面倒くさがり 屋
+ビフォア アフター=>ビフォア アフター,ビフォー アフター
+
+air light,エア ライト
+agile by rucoline,アージレ バイ ルコライン
+andrea michele,アンドレア ミケーレ
+area forte,エリア フォルテ
+asics tiger,アシックス タイガー
+a v v homme,アー ヴェ ヴェ オム
+baseball junky,ベースボール ジャンキー
+ball and buck,ボール アンド バック
+dr martens,ドクター マーチン
+flags town,フラッグス タウン
+g c morelli,ジャン カルロ モレリ
+george cox,ジョージ コックス
+gianni simone,ジャンニ シモーネ
+gianni russo,ジャンニ ルッソ
+hi tec,ハイ テック
+new balance,ニュー バランス
+new rock,ニュー ロック
+red wing,レッド ウィング
+soccer junky,サッカー ジャンキー
+soccer nut,サッカー ナッツ
+stefano rossi,ステファノ ロッシ
+walk over,ウォーク オーバー
+iris ohyama,アイリス オーヤマ
+in win,イン ウィン
+king jim,キング ジム
+green house,グリーン ハウス
+silicon power,シリコン パワー
+square enix,スクウェア エニックス
+taylor made,テーラー メイド
+sanwa supply,サンワ サプライ
+fujitsu general,富士通 ゼネラル
+mouse computer,マウス コンピューター
+tag heuer,タグ ホイヤー
+level 5,レベル ファイブ
+アメリカン ドック,アメリカン ドッグ
+めちゃ いけ,めちゃ イケ
+ミラ ジョヴォ=>ミラ ジョヴォ,ミラ ジョヴォヴィッチ
+私 たち,私 タチ=>私 達
+俺 たち,俺 タチ=>俺 達
+ヒカン ザクラ,カンヒ ザクラ,緋寒 桜,寒緋 桜
+毛玉 とり,毛玉 取り
+ウェルシュ コルギー=>ウェルシュ コルギー,ウェルシュ コーギー
+青 の エクソシスト=>青 の エクソシスト,青 の 祓魔師
+フェアリー ドロップ,フェアリー ドロップス
+ニット 帽子,ニット 帽
+ルイボス 茶,ルイボス ティー
+ダージリン ティー,ダージリン 紅茶
+シュッ と ピカ,シュッ ト ピカ,シュッ to ピカ
+ターン エー,ターン a
+笑う セールスマン=>笑う セールスマン,笑ゥ　せぇるすまん
+ハンダ コテ,半田 鏝
+ハーレー クイン=>ハーレー クイン, ハーレ クイン
+ハーレー クィーン=>ハーレー クィーン, ハーレ クイン
+ハーレ クィーン=>ハーレ クィーン,ハーレ クイン
+mawa ハンガー,マワ ハンガー
+おじ 様=>おじ 様,伯父 様,叔父 様
+ワイン セラ=>ワイン セラ,ワイン セラー
+はったい こ=>はったい こ,はったい 粉
+フジコ フジオ=>フジコ フジオ,藤子 不二雄
+妖 アパ=>妖 アパ,妖怪 アパート
+お こめ=>お こめ,お 米
+チンジャオ ロース=>チンジャオ ロース,青椒 肉絲
+チンジャオ ロースー=>チンジャオ ロースー,青椒 肉絲
+除湿 器=>除湿 器,除湿 機
+ディーリック バウツ,ディルク・ボウツ
+干し いも=>干し いも,干し 芋
+ほし いも=>ほし いも,干し 芋
+ホシ イモ=>ホシ イモ,干し 芋
+ファイヤー エンブレム=>ファイヤー エンブレム,ファイアー エムブレム
+ファイアー エンブレム=>ファイアー エンブレム,ファイアー エムブレム
+そば ちょこ=>そば ちょこ,そば 猪口
+がんだむ むそう=>がんだむ むそう,ガンダム 無双
+平家 蟹,ヘイケ ガニ
+リューカ デンドロ=>リューカ デンドロ,リューカ デンドロン
+クラダー リング=>クラダー リング,クラダ リング
+抱っこ で シネマ=>抱っこ で シネマ,抱っこ de シネマ
+わ だいこ=>わ だいこ,和 太鼓
+ワ だいこ=>ワ だいこ,和 太鼓
+レディー プレイヤー ワン=>レディ プレイヤー ワン,レディー プレイヤー 1
+g ジェネレーション=>g ジェネレーション, ジー ジェネレーション
+g ジェネ=>g ジェネ, ジー ジェネレーション
+たまり 乳=>たまり 乳,溜り 乳
+ユンケル こうてい=>ユンケル こうてい,ユンケル 黄帝
+ユンケル こうてい えき=>ユンケル こうてい えき,ユンケル 黄帝 液
+でりっしゅ きっちん=>でりっしゅ きっちん,デリッシュ キッチン
+すみっこ ぐらし=>すみっこ ぐらし, すみっコ ぐらし
+ラッチ バック=>ラッチ バック,クラッチ バッグ
+また 旅=>また 旅,マタ 旅
+ジー ゼロ=>ジー ゼロ,g ゼロ
+スパイスド ラム=>スパイスド ラム,スパイス ラム
+ばあ=>ばあ,ばあっ
+ナロ リブ=>ナロ リブ,ナロー リブ
+花咲 じいさん=>花咲 じいさん,花咲か じいさん
+めった いか=>めった いか,銘太 いか,銘太 烏賊
+ビラ ロボス=>ビラ ロボス,ヴィラ ロボズ
+スト v =>スト v, スト 5
+パッチン ドメ=>パッチン ドメ,パッチン 留め
+パッチン どめ=>パッチン どめ,パッチン 留め
+麦わら ぼうし=>麦わら ぼうし,麦わら 帽子
+羽織 物=>羽織 物,羽織 もの
+お しろこ=>お しろこ, お しるこ
+ウィンドウ ブレーカー=>ウィンドウ ブレーカー,ウインドー ブレーカー
+安倍川 もち=>安倍川 もち,安倍川 餅
+エア ポッツ=>エア ポッツ,air pods
+花びら もち=>花びら もち,花びら 餅
+葩 餅=>葩 餅,花びら 餅
+ひし 花びら もち=>ひし 花びら もち,菱 花びら 餅
+きめつ の やいば=>きめつ の やいば,鬼滅 の 刃
+きめつ の 刃=>きめつ の 刃,鬼滅 の 刃
+レモン 汁=>レモン 汁,レモン 果汁
+ウノ ピュウ=>ウノ ピュウ,ウノ ピゥ
+有川 浩,有川 ひろ
+かと ちゃん=>かと ちゃん,カト ちゃん,加ト ちゃん
+カト ちゃん=>カト ちゃん,加ト ちゃん
+三角 帽=>三角 帽,三角 帽子
+バケ ハ=>バケ ハ,バケット ハット
+カーデ=>カーデ,カーディガン
+コーデ=>コーデ,コーディネート
+コラボ=>コラボ,コラボレーション
+ブシロ=>ブシロ,ブシロード
+天皇=>天皇,天皇陛下
+フランキン=>フランキン,フランキンセンス
+ニュル=>ニュル,ニュルブルク
+uver=>uver,uverworld
+ヒトメタ=>ヒトメタ,ヒトメタニューモ
+
+io, i o
+x y z, xyz
+u f o, ufo
+you tube,youtube,ユー チューブ
+ゆー ちゅーぶ=>you tube,youtube,ユー チューブ,ゆー ちゅーぶ
+y m o, ymo
+xmen=>xmen, x men
+x メン=>x メン,x men
+
+ldk =>ldk, l dk
+
+ケイティ リューング, ケイティ ラング
+テイラー スイフト,テイラー スウィフト
+
+スマート パス,スマ パス
+
+スト 2=>スト 2,ストリート ファイター 2
+スト 3=>スト 3,ストリート ファイター 3
+スト 4=>スト 4,ストリート ファイター 4
+スト 5=>スト 5,ストリート ファイター 5
+スト v=>スト v,ストリート ファイター v
+トップ ガン,top gun
+
+メタルギア, metal gear
+メタルギア ソリッド, metal gear solid, mgs
+メタルギア 2, metal gear 2, metal gear solid 2, メタルギア ソリッド 2,mgs 2
+メタルギア 3, metal gear 3, metal gear solid 3, メタルギア ソリッド 3,mgs 3
+メタルギア 4, metal gear 4, metal gear solid 4, メタルギア ソリッド 4,mgs 4
+メタルギア 5, metal gear 5, metal gear solid 5, メタルギア ソリッド 5,mgs 5
+
+ffrk, ファイナル ファンタジー レコード キーパー, final fantasy record keeper
+ff=>ff, ファイナル ファンタジー
+ff 2 , ファイナル ファンタジー 2
+ff 3 , ファイナル ファンタジー 3 
+ff 4 , ファイナル ファンタジー 4
+ff 5 , ファイナル ファンタジー 5
+ff 6 , ファイナル ファンタジー 6
+ff 7 , ファイナル ファンタジー 7
+ff 8 , ファイナル ファンタジー 8
+ff 9 , ファイナル ファンタジー 9
+ff 10 , ファイナル ファンタジー 10
+ff 11 , ファイナル ファンタジー 11
+ff 12 , ファイナル ファンタジー 12
+ff 13 , ファイナル ファンタジー 13
+ff 14 , ファイナル ファンタジー 14
+ff 15 , ファイナル ファンタジー 15
+ff 16 , ファイナル ファンタジー 16
+
+レスポール, les paul
+
+スクエア エニックス, スクエニ
+バンナム,バンダイ ナムコ
+
+モンスター ストライク,モンスト
+monster hunter,モンスター ハンター, モンハン
+monster hunter 3,モンスター ハンター 3, モンハン 3
+monster hunter 3 g,モンスター ハンター 3 g, モンハン 3 g
+monster hunter 4,モンスター ハンター 4, モンハン 4
+monster hunter 4 g,モンスター ハンター 4 g, モンハン 4 g
+monster hunter x,モンスター ハンター クロス, モンハン クロス,モンスター ハンター x,モンハン x,mhx
+monster hunter xx,モンスター ハンター ダブル クロス,モンスター ハンター xx, モンハン xx,mhxx
+monster hunter world, モンスター ハンター ワールド,mhw
+
+パズル アンド ドラゴンズ,パズル アンド ドラゴン,パズドラ
+マイクラ,minecraft,マイン クラフト
+桃鉄=>桃鉄,桃太郎 電鉄
+
+スターバックス,スター バックス
+
+シンセサイザー,シンセ
+サウンド トラック,サントラ
+パワー ポイント,パワポ
+
+motogp,moto gp
+
+tgs => tgs, 東京 ゲーム ショー
+tgc => tgc, 東京 ガールズ コレクション
+tdl => tdl, 東京 ディズニー ランド
+tds => tds, 東京 ディズニー シー
+usj => usj, ユニバーサル スタジオ ジャパン
+
+joysound,joy sound,ジョイ サウンド
+musicman, music man
+ビック バン,bigbang, big bang
+
+ドンキ,ドン キホーテ,ドンキホーテ
+
+rq,レース クイーン
+
+ボカロ,ボーカロイド,vocaloid
+
+島崎 遥香,ぱるる
+渡辺 麻友,まゆゆ
+木村 拓哉,キムタク
+
+m ステ,ミュージック ステーション
+
+スプラトゥーン,splatoon
+
+京急,京浜 急行
+サマソニ,サマー ソニック
+
+アセスルファム K,アセスルファム, カリウム
+ビジュアル 系, v 系
+ア ラ カルト,アラカルト
+
+東証,東京 証券 取引 所
+
+マンチェスター シティー, マンチェスター c, マン c
+マンチェスター ユナイテッド,マンチェスター u,マン u
+
+kry=>kry,k r y
+
+ショーパン,ショート パンツ
+anan,an an
+
+vw, フォルクス ワーゲン
+
+は も,ハモ
+はだ=>はだ,肌
+
+プロダクション ig,プロダクション i g
+cc レモン, c c レモン
+
+セフティー=>セフティー,セーフティー
+みん くじ,みんな の くじ
+ファミマ,ファミリー マート
+しちゅう すいめい =>しちゅう すいめい,四 柱 推命
+リゼロ,re ゼロ
+カバマ=>カバー マーク
+ガンダム オリジン,ガンダム the origin
+100 円 均一,100 均,百 均
+gi ジョー,gi joe
+霞海 城, 霞海 城隍 廟
+psvr, ps vr,playstation vr
+ポケモン go, pokemon go
+ダブ=>ダブ,ダヴ
+とのこ=>とのこ,砥の粉,との粉
+ちらし=>ちらし,チラシ,散らし
+スポサン=>スポサン,スポーツ サンダル
+ウーバー=>ウーバー,uber,uverworld
+ウーバー ワールド,uver world=>ウーバー ワールド,uver world,uverworld
+スーファミ=>スーファミ,スーパー ファミコン
+ファミコン=>ファミコン,ファミリー コンピューター
+ユーフォ=>ユーフォ,ユーフォニアム
+グラブル=>グラブル,グランブルー ファンタジー
+rip=>rip,r.i.p.
+r i p=>r i p,r.i.p.
+ヒスコレ=>ヒストリック コレクション,historic collection
+関テレ,関西 テレビ
+ラズパイ=>ラズパイ,raspberry pi
+cw ニコル=>cw ニコル,c w ニコル
+メットガラ,met gala
+yahyahyah,yah yah yah
+燻製 さきいか,くんさき,くん さきいか
+rod=>rod,r o d
+bass magazine,ベース マガジン
+guitar magazine,ギター マガジン
+ヤンマガ=>ヤンマガ,ヤング マガジン
+oz magazine=>oz magazine,ozmagazine
+ジオ=>ジオ,ジ o
+タワマン=>タワマン,タワー マンション
+ダンまち=>ダンまち,ダンジョン に 出会い を 求める の は 間違っ て いる だろ う か
+フェンジャパ=>フェンジャパ,フェンダー ジャパン
+ラウパ=>ラウパ,ラウド パーク
+チプカシ=>チプカシ,チープ カシオ
+トイトレ=>トイトレ,トイレ トレーニング
+ソニック ケア=>ソニック ケア,ソニッケアー
+塩ビ=>塩ビ,塩化 ビニル,塩化 ビニール
+漫画 太郎=>漫画 太郎,漫 画 太郎
+コムデ=>コムデ,コム デ ギャルソン
+ミラノ コレ=>ミラノ コレ,ミラノ コレクション
+ドラレコ=>ドラレコ,ドライブ レコーダー
+デジカメ=>デジカメ,デジタル カメラ
+fuji film=>fujifilm,fuji film
+ショルキー=>ショルキー,ショルダー キーボード
+なすなか=>なすなか,なす なかにし
+名大=>名大,名古屋 大学
+けもフレ=>けもフレ,けもの フレンズ
+プリザ クロック=>プリザ クロック,プリザーブド フラワー クロック
+cc cross=>cc cross,c c cross
+cc クロス=>cc クロス,c c cross
+シーシー クロス=>シーシー クロス,c c cross
+イヴサン=>イヴサン,イヴ サンローラン
+プロコン=>プロコン,pro コントローラー, プロ コントローラー
+プロ コントローラー=>プロ コントローラー,pro コントローラー
+anation=>anation,a nation
+アイホン テン=>アイホン テン, iphone x
+あいほん てん=>あいほん てん, iphone x
+アイホン テン アール=>アイホン テン アール, iphone xr
+あいほん てん あーる=>あいほん てん あーる, iphone xr
+あいほん てん えす=>あいほん てん えす,iphone xs
+アイホン テン エス=>アイホン テン エス,iphone xs
+あいほん てん えす まっくす=>あいほん てん えす まっくす,iphone xs max
+アイホン テン エス マックス=>アイホン テン エス マックス,iphone xs max
+フォノイコ=>フォノイコ,フォノ イコライザー
+baby doll=>baby doll,babydoll
+アメリカ ザリガニ,アメザリ
+ロンドン ブーツ,ロンブー
+アンジャッシュ,アンジャ
+品川 庄司,品 庄
+南海 キャンディーズ,南 キャン
+チュート,チュートリアル
+ブラック マヨネーズ,ブラマヨ
+ナインティナイン,ナイナイ
+オリエンタル ラジオ,オリラジ
+フル ポン,フルーツ ポンチ
+ノンスタ,ノン スタイル,non style
+ドリフターズ,ドリフ
+弱ペダ=>弱ペダ,弱虫 ペダル
+ハガレン=>ハガレン,鋼 の 錬金術 師
+まどマギ=>まどマギ,まどか マギカ
+とうらぶ=>とうらぶ,刀剣 乱舞
+艦これ=>艦これ,艦隊 コレクション
+黒 バス=>黒 バス,黒子 の バスケ
+犬 ハサ=>犬 ハサ,犬 と ハサミ は 使い よう
+戦 ヴァル=>戦 ヴァル,戦場 の ヴァルキュリア
+ガルパン=>ガルパン,ガールズ アンド パンツァー
+gレコ=>gレコ,g の レコンギスタ
+るろ剣=>るろ剣,るろうに 剣心
+ゼロ 魔=>ゼロ 魔,ゼロ の 使い 魔
+花 いろ=>花 いろ,花 咲く いろは
+うた プリ=>うた プリ,うた の プリンス さまっ
+うた の プリンス さま=>うた の プリンス さま,うた の プリンス さまっ
+タイバニ=>タイバニ,tiger bunny
+wug=>wug,wake up girls
+hunter hunter, ハンター ハンター
+ハリポタ=>ハリポタ,ハリー ポッター
+テニプリ,てにぷり=>テニス の 王子 様,てにぷり,テニプリ
+ベル ばら=>ベル ばら,ベルサイユ の バラ
+魔女 宅=>魔女 宅,魔女 の 宅急便
+スラダン=>スラダン,スラムダンク
+おお 振り=>おお 振り,おおきく 振りかぶっ て
+漢検=>漢検,漢字 能力 検定
+数検=>数検,実用 数学 技能 検定
+英検=>英検,英語 検定
+普免=>普免,普通 免許
+外為=>外為,外国 為替
+青 エク=>青 エク,青 の 祓魔師
+マテ マテ=>マテ マテ,魔 天使 マテリアル
+虹 コン=>虹 コン,虹 の コンキスタ ドール
+ワルブレ=>ワルブレ,聖剣 使い の 禁 呪 詠唱
+ワタモテ=>ワタモテ,私 が モテ ない のは どう かんがえ て も お前 ら が わるい
+むげにん=>むげにん,無限 の 住人
+最 彼=>最 彼,最終 兵器 彼女
+がをられ=>がをられ,彼女 が フラグ を おら れ たら
+パワプロ=>パワプロ,パワフル プロ 野球
+スマブラ=>スマブラ,スマッシュ ブラザーズ
+ワートリ=>ワートリ,ワールド トリガー
+メロディック ハード コア,メロコア
+ミスド=>ミスド,ミスター ドーナツ
+マリパ=>マリパ,マリオ パーティ
+マツキヨ=>マツキヨ,マツモト キヨシ
+やきゅつく=>やきゅつく,プロ 野球 チーム を つくろ う
+プロスピ=>プロスピ,プロ 野球 スピリッツ
+ジャズベ=>ジャズベ,ジャズ ベース
+プレベ=>プレベ,プレシジョン ベース
+アコギ=>アコギ,アコースティック ギター
+バトロワ=>バトロワ,バトル ロワイアル
+デジモン=>デジモン,デジタル モンスター
+ウイイレ=>ウイイレ,ウイニング イレブン
+あの 花=>あの 花,あの 日 見 た 花 の 名前 を 僕達 は まだ 知ら ない
+エレジョン=>エレジョン,エレファント ジョン
+銀英伝=>銀英伝,銀河 英雄 伝説
+パーフリ=>パーフリ,フリッパーズ ギター
+sb 69=>sb 69,show by rock
+ここさけ=>ここさけ,心 が 叫び た がっ てる ん だ
+fate go=>fate go, fate grand order
+fgo=>fgo, fate grand order
+デレマス=>デレマス,アイドルマスター シンデレラ ガールズ
+デレステ=>デレステ,アイドルマスター シンデレラ ガールズ スター ライト ステージ
+スクフェス=>スクフェス,スクール アイドル フェスティバル
+ポケモン=>ポケモン, ポケット モンスター
+ポケ go, ポケ ゴー=>ポケ go, ポケ ゴー,ポケモン go
+デュエマ=>デュエマ,デュエル マスターズ
+シアト=>シアト,シアトリズム
+逃げ恥=>逃げ恥,逃げる は 恥 だ が 役に立つ
+バンドリ=>バンドリ,bang dream
+こち 亀=>こち 亀,こちら 葛飾 区 亀有 公園 前 派出所
+マリオ デ=>マリオ デ,スーパー マリオ オデッセイ
+ポプテピ=>ポプテピ,ポプテピピック
+ぎぼむす=>ぎぼむす,義母 と 娘 の ブルース
+チャオ パ=>チャオ パ,チャオ パニック
+シュタゲ=>シュタゲ,シュタインズ ゲート
+下 セカ=>下 セカ,下ネタ という 概念 が 存在 し ない 退屈 な 世界
+城 ダン=>城 ダン,城下町 の ダンデ ライオン
+やまじょ=>やまじょ,山田 くん と 7 人 の 魔女
+プラメモ=>プラメモ,プラスティック メモリーズ
+冴え カノ=>冴え カノ,冴え ない 彼女 の 育て かた
+転 スラ=>転 スラ,転生 したら スライム だった 件
+花男=>花男,花 より 男子
+2 pac,2 パック
+50 cent,50 セント
+akon,エイコン
+alt j,アルト ジェイ
+andrew w k,アンドリュー ダブリュ ケイ
+asap rocky,エイ サップ ロッキー
+adam lambert,アダム ランバート
+alexander james mclean,アレクサンダー ジェームス マクリーン
+alice cooper,アリス クーパー
+andrea bocelli,アンドレア ボチェッリ
+arto lindsay,アート リンゼイ
+avicii,アヴィーチー
+babyface,ベイビー フェイス
+ben folds,ベン フォールズ
+bob log iii,ボブログ 三 世
+beck,ベック
+ben harper,ベン ハーパー
+bernard butler,バーナード バトラー
+big punisher,ビッグ パニッシャー
+billy corgan,ビリー コーガン
+billy gilman,ビリー ギルマン
+billy joel,ビリー ジョエル
+bob dylan,ボブ ディラン
+bob marley,ボブ マーリー
+bob sinclar,ボブ サンクラー
+bobby caldwel,ボビー コールド ウェル
+brian littrell,ブライアン リトレル
+brian mcknight,ブライアン マクナイト
+bruce springsteen,ブルース スプリング スティーン
+bryan adams,ブライアン アダムス
+cody simpson,コーディー シンプソン
+chilly gonzales,チリー ゴンザレス
+chris brown,クリス ブラウン
+cliff richard,クリフ リチャード
+craig david,クレイグ デイビッド
+cut chemist,カット ケミスト
+daddy yankee,ダディー ヤンキー
+david morales,デヴィッド モラレス
+dj shadow,dj シャドウ
+dr dre,ドクター ドレー
+dan bryk,ダン ブリック
+daniel powter,ダニエル パウター
+daryl hall,ダリル ホール
+david bowie,デビッド ボウイ
+david cassidy,デビッド キャシディ
+david sanborn,デイヴィッド サン ボーン
+devin townsend,デビン タウンゼンド
+dick lee,ディック リー
+don henley,ドン ヘンリー
+don philip,ドン フィリップ
+drake,ドレイク
+eminem,エミネム
+ed sheeran,エド シーラン
+elliott smith,エリオット スミス
+elton john,エルトン ジョン
+elvis costello,エルビス コステロ
+elvis presley,エルビス プレスリー
+enrique iglesias,エンリケ イグレシアス
+eric burdon,エリック バードン
+eric clapton,エリック クラプトン
+fatboy slim,ファット ボーイ スリム
+frank ocean,フランク オーシャン
+frank zappa,フランク ザッパ
+gary moore,ゲイリー ムーア
+gavin degraw,ギャビン デグロウ
+george harrison,ジョージ ハリスン
+george michael,ジョージ マイケル
+hans dulfer,ハンス ダル ファー
+ian brown,イアン ブラウン
+iggy pop,イギー ポップ
+izzy stradlin,イジー ストラドリン
+j holiday,j ホリデイ
+ja rule,ジャ ルール
+jay z,ジェイ z
+jeff mills,ジェフ ミル ズ
+jimmy eat world,ジミー イート ワールド
+justin bieber,ジャスティン ビーバー
+jack johnson,ジャック ジョンソン
+jake bugg,ジェイク バグ
+james blake,ジェイムス ブレイク
+james blunt,ジェイムス ブラント
+james brown,ジェームス ブラウン
+james iha,ジェームス イハ
+james taylor,ジェイムス テイラー
+jamie foxx,ジェイミー フォックス
+jamiroquai,ジャミロクワイ
+jay park,パク ジェボム
+jeff beck,ジェフ ベック
+jeff buckley,ジェフ バックリィ
+jesse harris,ジェシー ハリス
+jesse mccartney,ジェシー マッカートニー
+jimi hendrix,ジミ ヘンドリックス
+joe bonamassa,ジョー ボナマッサ
+john legend,ジョン レジェンド
+john mayer,ジョン メイヤー
+john taylor,ジョン テイラー
+johnny marr,ジョニー マー
+jose james,ホセ ジェイムズ
+justin timberlake,ジャスティン ティンバー レイク
+kanye west,カニエ ウェスト
+keith richards,キース リチャーズ
+kevin michael,ケヴィン マイケル
+kishi bashi,キシ バシ
+ll cool j,エルエル クール ジェイ
+lsk,エル エス ケイ
+lenny kravitz,レニー クラビッツ
+lloyd,ロイド
+lou reed,ルー リード
+lowell fulson,ロー ウェル フルソン
+luis miguel,ルイス ミゲル
+mika,ミーカ
+moby,モービー
+mani,マニ
+marty friedman,マーティ フリードマン
+matisyahu,マティスヤフ
+matt cab,マット キャブ
+maxwell,マックス ウェル
+mayer hawthorne,メイヤー ホーソーン
+michael buble,マイケル ブーブレ
+michael jackson,マイケル ジャクソン
+mick taylor,ミック テイラー
+miguel guerreiro,ミゲル ゲレイロ
+mike oldfield,マイク オールド フィールド
+morrissey,モリッシー
+mos def,モス デフ
+ne yo,ニーヨ
+nelly,ネリー
+nas,ナズ
+nat king cole,ナット キング コール
+neil young,ニール ヤング
+nick carter,ニック カーター
+nick drake,ニック ドレイク
+olly murs,オリー マーズ
+p j olsson,p j オル ソン
+paolo nutini,パオ ロ ヌティーニ
+patrick nugier,パトリック ヌジェ
+paul gilbert,ポール ギルバート
+paul mccartney,ポール マッカートニー
+paul simon,ポール サイモン
+paul weller,ポール ウェラー
+pharrell williams,ファレル ウィリアムス
+pink martini,ピンク マルティーニ
+prince,プリンス
+q tip,キュー ティップ
+r kelly,アール ケリー
+ricky martin,リッキー マーティン
+ringo starr,リンゴ スター
+ritchie blackmore,リッチー ブラックモア
+robbie williams,ロビー ウィリアムズ
+robin thicke,ロビン シック
+rod stewart,ロッド スチュアート
+roger sanchez,ロジャー サンチェス
+ronan keating,ローナン キーティング
+ryan adams,ライアン アダムス
+sizzla,シズラ
+skrillex,スクリレックス
+snoop dogg,スヌープ ドッグ
+speech,スピーチ
+sam smith,サム スミス
+sam sparro,サム スパロー
+sananda maitreya,サナンダ マイト レイヤ
+sean paul,ショーン ポール
+sean kingston,ショーン キングストン
+shane gaalaas,シェーン ガラス
+shyne,シャイン
+space cowboy,スペース カウボーイ
+steve earle,スティーブ アール
+steve vai,スティーブ バイ
+steve winwood,スティーブ ウィン ウッド
+stevie wonder,スティービー ワンダー
+sting,スティング
+t pain,ティー ペイン
+taegoon,テグン
+thom yorke,トム ヨーク
+timati,ティマティ
+tom odell,トム オデール
+twin shadow,ツイン シャドウ
+ulrik munther,ウルリック マンター
+usher,アッシャー
+van dyke parks,ヴァン ダイク パーク ス
+will i am,ウィル アイ アム
+will smith,ウィル スミス
+willy moon,ウィリー ムーン
+wyclef jean,ワイクリフ ジョン
+xzibit,イグジビット
+yohio,ヨヒオ
+yuksek,ユクセック
+zedd,ゼッド
+josh groban,ジョシュ グローバン
+system f,システム エフ
+amerie,エイ メリー
+amy winehouse,エイミー ワイン ハウス
+azealia banks,アジーリア バンクス
+aaliyah,アリーヤ
+adele,アデル
+alanis morissette,アラニス モリセット
+alexandra stan,アレクサンドラ スタン
+alice sara ott,アリス 紗良 オット
+alicia keys,アリシア キーズ
+alizee,アリゼ
+angelina,アンジェリーナ
+anggun,アングン
+ariana grande,アリアナ グランデ
+ashanti,アシャンティ
+ashlee simpson,アシュリー シンプソン
+avril lavigne,アヴリル ラヴィーン
+becca,ベッカ
+basia,バーシア
+beyonce,ビヨンセ
+bjork,ビョーク
+blu cantrell,ブルー カントレル
+britney spears,ブリトニー スピアーズ
+brooke hogan,ブルック ホーガン
+charice,シャリース
+carly rae jepsen,カーリー レイ ジェプセン
+carrie underwood,キャリー アンダー ウッド
+celine dion,セリーヌ ディオン
+che nelle,シェネル
+cher,シェール
+christina aguilera,クリスティーナ アギレラ
+ciara,シ アラ
+clementine,クレモンティーヌ
+corinne bailey rae,コリーヌ ベイリー レイ
+cyndi lauper,シンディ ローパー
+diana king,ダイアナ キング
+delta goodrem,デルタ グッドレム
+demi lovato,デミ ロヴァート
+diana ross,ダイアナ ロス
+emmy the great,エミー ザ グレイト
+eve,イヴ
+elisha la verne,エリーシャ ラバーン
+elle varner,エル ヴァーナー
+ellie goulding,エリー ゴールディング
+enya,エンヤ
+feist,ファイスト
+fergie,ファーギー
+foxes,フォクシーズ
+faith hill,フェイス ヒル
+fatima rainey,ファティマ レイニー
+filippa giordano,フィリッパ ジョルダーノ
+fiona apple,フィオナ アップル
+france gall,フランス ギャル
+gwen stefani,グウェン ステファニー
+havana brown,ハヴァナ ブラウン
+hilary duff,ヒラリー ダフ
+imogen heap,イモージェン ヒープ
+india arie,インディア アリー
+jacynthe,ジャ セイント
+janet jackson,ジャネット ジャクソン
+janet kay,ジャネット ケイ
+janis joplin,ジャニス ジョップリン
+jennifer lopez,ジェニファー ロペス
+jennifer paige,ジェニファー ペイジ
+jessica simpson,ジェシカ シンプソン
+jessie j,ジェシー ジェイ
+jewel,ジュエル
+jordyn taylor,ジョーディン テイラー
+kate nash,ケイト ナッシュ
+ke ha,ケシャ
+keyshia cole,キーシャ コール
+kat deluna,キャット デルーナ
+kate bush,ケイト ブッシュ
+katherine jenkins,キャサリン ジェンキンス
+katy perry,ケイティ ペリー
+kelly clarkson,ケリー クラーク ソン
+kelly rowland,ケリー ローランド
+kylie minogue,カイリー ミノーグ
+lady gaga,レディー ガガ
+lana del rey,ラナ デル レイ
+ledisi,レ デ シー
+laura pausini,ラウラ パウジーニ
+lauryn hill,ローリン ヒル
+leah andreone,リア アンドレオーネ
+lily allen,リリー アレン
+lisa loeb,リサ ローブ
+lorde,ロード
+loreen,ロリーン
+mutya buena,ムーチャ ブエナ
+macy gray,メイシー グレイ
+madonna,マドンナ
+mandy moore,マンディ ムーア
+mariah carey,マライア キャリー
+mary j blige,メアリー ジェイ ブライジ
+meghan trainor,メーガン トレイナー
+meja,メイヤ
+michelle branch,ミシェル ブランチ
+miley cyrus,マイリー サイラス
+misha williams,ミーシャ ウィリアムス
+monica,モニカ
+mya,マイア
+mylin,マイリーン
+nicole scherzinger,ニコール
+nadia oh,ナディア オー
+nancy sinatra,ナンシー シナトラ
+natalie duncan,ナタリー ダンカン
+natasha bedingfield,ナターシャ ベディング フィールド
+nelly furtado,ネリー ファータド
+nicki minaj,ニッキー ミナージュ
+nivea,ニベア
+nodesha,ノディーシャ
+norah jones,ノラ ジョーンズ
+olivia newton john,オリビア ニュートン ジョン
+orianthi,オリアンティ
+paula abdul,ポーラ アブドゥル
+paulina rubio,パウリナ ルビオ
+p nk,ピンク
+rhona,ローナ
+rihanna,リアーナ
+russian red,ロシアン レッド
+steph pockets,ステフ ポケッツ
+samantha mumba,サマンサ マンバ
+sandi thom,サンディ トム
+sarah brightman,サラ ブライトマン
+selah sue,セラ スー
+selena gomez,セレーナ ゴメス
+shakira,シャキーラ
+sheryl crow,シェリル クロウ
+sophie zelmani,ソフィー セル マーニ
+taylor swift,テイラー スウィフト
+vanessa paradis,バネッサ パラディ
+victoria beckham,ビクトリア ベッカム
+victoria duffield,ヴィクトリア ダフィールド
+weiwei wuu,ウェイ ウェイ ウー
+whitney houston,ホイットニー ヒューストン
+jojo,ジョジョ
+t a t u,タトゥー
+10 years,テン イヤーズ
+10 cc,テン シーシー
+120 days,ワン ハンド レッド トゥエンティ デイズ
+30 seconds to mars,サーティ セカンズ トゥ マーズ
+311,スリー イレブン
+5 seconds of summer,ファイヴ セカンズ オブ サマー
+90 day men,ナインティ デイ メン
+abba,アバ
+abs,アブス
+afterschool,アフター スクール
+all time low,オール タイム ロウ
+amanda brecker,アマンダ ブ レッカー
+aqua,アクア
+atomic swing,アトミック スウィング
+aerosmith,エアロスミス
+alunageorge,アルーナ ジョージ
+anthrax,アン スラックス
+arcade fire,アーケイド ファイア
+arctic monkeys,アーク ティック モンキーズ
+ash,アッシュ
+asian dub foundation,エイジ アン ダブ ファウンデーション
+asia,エイジア
+atoms for peace,アトム ス フォー ピース
+audioslave,オーディオ スレイブ
+austin mahone,オースティン マホーン
+avenged sevenfold,アヴェンジド セヴン フォールド
+b a p,ビー エー ピー
+belakiss,ベラ キス
+belle and sebastian,ベル アンド セバスチャン
+black veil brides,ブラック ヴェイル ブライズ
+blink 182,ブリンク ワン エイティ トゥー
+bright eyes,ブライト アイズ
+bring me the horhe horizon,ブリング ミー ザ ホライズン
+busted,バステッド
+babyshambles,ベイビー シャンブルズ
+backstreet boys,バック ストリート ボーイズ
+bad religion,バッド レリジョン
+beastie boys,ビースティ ボーイズ
+ben folds five,ベン フォールズ ファイブ
+ben westbeech,ベン ウェスト ビーチ
+biffy clyro,ビッフィ クライロ
+black eyed peas,ブラック アイド ピーズ
+black rebel motorcycle club,ブラック レベル モーター サイクル
+black sabbath,ブラック サバス
+blackstreet,ブラック ストリート
+blue,ブルー
+blur,ブラー
+bombay bicycle club,ボンベイ バイシクル クラブ
+bon jovi,ボン ジョビ
+boomkat,ブーム キャット
+boyz ii men,ボーイズ ツー メン
+breaking arrows,ブレイキング アローズ
+buckcherry,バック チェリー
+c 2 c,コースト ツー コースト
+chase status,チェイス アンド ステータス
+chvrches,チャーチ ズ
+cobra starship,コブラ スター シップ
+crystal castles,クリスタル キャッスル ズ
+capital cities,キャピタル シティ ーズ
+carpenters,カーペンターズ
+chairlift,チェア リフト
+cheap trick,チープ トリック
+chicago,シカゴ
+children of bodom,チルドレン オブ ボドム
+clipse,クリプス
+cloudberry jam,クラウド ベリー ジャム
+coldplay,コールド プレイ
+crazy town,クレイジー タウン
+cypress hill,サイプレス ヒル
+d 12,ディー トゥエルブ
+daft punk,ダフト パンク
+don johnson big band,ドン ジョンソン ビッグ バンド
+doz,ディー オージー
+da buzz,ダ バズ
+daryl hall john oates,ダリル ホール ジョン オーツ
+death cab for cutie,デス キャブ フォー キューティー
+deep forest,ディープ フォレスト
+deep purple,ディープ パープル
+destiny s child,デスティニー ズ チャイルド
+devo,ディーボ
+dixie chicks,ディクシー チック ス
+duran duran,デュラン デュラン
+electric guest,エレクトリック ゲスト
+enigma,エニグマ
+enter shikari,エンター シ カリ
+evanescence,エヴァネッセンス
+eagles,イーグルス
+earth wind fire,アース ウィンド アンド ファイアー
+erasure,イレイジャー
+fall out boy,フォール アウト ボーイ
+five,ファイブ
+feeder,フィーダー
+florence and the machine,フローレンス アンド ザ マシーン
+foo fighters,フー ファイターズ
+franz ferdinand,フランツ フェ ルディ ナンド
+garbage,ガービッジ
+gob,ゴブ
+gossip,ゴシップ
+guns n roses,ガンズ アンド ローゼズ
+godhead,ゴッド ヘッド
+goo goo dolls,グー グー ドールズ
+good charlotte,グッド シャーロット
+gorillaz,ゴリラ ズ
+grateful dead,グレイトフル デッド
+greenday,グリーン デイ
+haim,ハイム
+hanoi rocks,ハノイ ロックス
+hinder,ヒンダー
+hollywood undead,ハリウッド アンデッド
+hoobastank,フー バス タンク
+halford,ハルフォード
+hanson,ハンソン
+hoobastank,フー バス タンク
+hot chelle rae,ホット シェル レイ
+imagine dragons,イマジン ドラゴンズ
+incubus,インキュバス
+jackson 5,ジャクソン 5
+jet,ジェット
+journey,ジャーニー
+jack s mannequin,ジャック ス マネキン
+jagged edge,ジャギ ド エッジ
+jesus jones,ジーザス ジョーンズ
+joy division,ジョイ ディヴィジョン
+justice,ジャスティス
+kaiser chiefs,カイザー チーフス
+kasabian,カサ ビアン
+keane,キーン
+kiss,キッス
+klaxons,クラク ソン ズ
+kula shaker,クーラ シェイカー
+lady antebellum,レディ アンテベラム
+led zeppelin,レッド ツェッペリン
+linkin park,リンキン パーク
+little mix,リトル ミックス
+mastodon,マストドン
+matt bianco,マット ビアンコ
+mellow,メロウ
+metallica,メタリカ
+mew,ミュー
+modeselektor,モード セレクター
+modest mouse,モデ スト マウス
+mutemath,ミュート マス
+mxpx,エム エックス ピー エックス
+my chemical romance,マイ ケミカル ロマンス
+madison avenue,マディソン アベニュー
+mando diao,マン ドゥ ディア オ
+manic street preachers,マ ニック ストリート プリーチャーズ
+marilyn manson,マリリン マンソン
+maroon 5,マルーン 5
+mary mary,メアリー メアリー
+mayday,メイ デイ
+metronomy,メトロ ノ ミー
+midtown,ミッド タウン
+missinlinx,ミッ シン リンクス
+modjo,モジョ
+motor ace,モーター エース
+mr big,ミスター ビッグ
+muse,ミューズ
+my bloody valentine,マイ ブラッディ ヴァレンタイン
+mystery jets,ミステリー ジェッツ
+m nk,ミンク
+n e r d,エヌ イー アール ディー
+negative,ネガティブ
+neko jump,ネコ ジャンプ
+new kids on the block,ニュー キッズ オン ザ ブロック
+nailpin,ネイル ピン
+natural,ナチュラル
+new order,ニュー オーダー
+nine inch nails,ナイン インチ ネイル ズ
+nirvana,ニルバーナ
+no doubt,ノー ダウト
+no warning,ノー ウォーニング
+o zone,オゾン
+one night only,ワン ナイト オンリー
+owl city,アウル シティー
+oasis,オアシス
+one direction,ワン ダイレクション
+papa roach,パパ ローチ
+patti smith,パティ スミス
+pentatonix,ペンタトニック ス
+pitbull,ピット ブル
+palma violets,パーマ ヴァ イオ レッツ
+panic at the disco,パニック アット ザ ディスコ
+pantera,パンテラ
+pearl jam,パール ジャム
+pet shop boys,ペット ショップ ボーイズ
+pink floyd,ピンク フロイド
+pleymo,プレイモ
+prefab sprout,プリファブ スプラウト
+primal scream,プライマル スクリーム
+public enemy,パブリック エナミー
+pulp,パルプ
+queens of the stone age,クイーンズ オブ ザ ストーン エイジ
+quarashi,カラシ
+queen,クイーン
+r e m,アール イー エム
+razorlight,レイザー ライト
+rodrigo y gabriela,ロドリーゴ イ ガブリエーラ
+rooster,ルースター
+radiohead,レディオヘッド
+rancid,ランシド
+red hot chili peppers,レッド ホット チリ ペッパー ズ,レッチリ
+reef,リーフ
+rhye,ライ
+rockapella,ロッカ ペラ
+royksopp,ロイクソップ
+rush,ラッシュ
+s t u n,スタン
+santana,サンタナ
+sex pistols,セックス ピストルズ
+sum 41,サム フォーティ ワン
+system of a down,システム オブ ア ダウン
+sea a,シー エー
+simon and garfunkel,サイモン ガーファンクル
+simple plan,シンプル プラン
+ska cubano,スカ キューバーノ
+slash,スラッシュ
+something corporate,サムシング コーポレイト
+sonic youth,ソニック ユース
+stereophonics,ステレオ フォニックス
+story of the year,ストーリー オブ ザ イヤー
+suede,スウェード
+sugar ray,シュガー レイ
+t o k,ティー ケー オー
+t rex,ティー レックス
+take that,テイク ザット
+texas,テキサス
+the all american rejects,オール アメリカン リジェクツ
+the ataris,アタリス
+the fratellis,ザ フラテリス
+the futureheads,ザ フューチャー ヘッズ
+the go team,ザ ゴー チーム
+the heartbreaks,ザ ハート ブレイクス
+the hives,ハイヴ ス
+the hoosiers,ザ フージアーズ
+the horrors,ザ ホラー ズ
+the killers,ザ キラーズ
+the kooks,ザ クークス
+the others,ジ アザーズ
+the wanted,ザ ウォン テッド
+tlc,ティー エル シー
+tool,トゥール
+travis,トラヴィス
+the 1975,ナインティーン セブンティ ファイブ
+the beach boys,ザ ビーチ ボーイズ
+the beatles,ビートルズ
+the beatnuts,ビート ナッツ
+the black keys,ザ ブラック キーズ
+the cardigans,カーディガン ズ
+the chemical brothers,ケミカル ブラザーズ
+the clash,クラッシュ
+the cooper temple clause,ザ クーパー テンプル クロース
+the coral,ザ コーラル
+the courteeners,ザ コー ティー ナーズ
+the cranberries,ザ クランベリー ズ
+the cure,ザ キュアー
+the doobie brothers,ドゥー ビー ブラザーズ
+the doors,ドアーズ
+the flaming lips,フレーミング リップス
+the get up kids,ゲット アップ キッズ
+the kinks,ザ キンクス
+the little willies,リトル ウィ リーズ
+the mars volta,マーズ ヴォルタ
+the neptunes,ザ ネプチューン ズ
+the offspring,オフスプリング
+the police,ポリス
+the prodigy,プロディジー
+the pussycat dolls,プッシー キャット ドールズ
+the rolling stones,ローリング ストーンズ
+the smashing pumpkins,スマッシング パンプキン ズ
+the smiths,ザ スミス
+the stone roses,ザ ストーン ローゼズ
+the stranglers,ストラングラー ズ
+the strokes,ザ ストロークス
+the strypes,ザ ストライプス
+the sundays,ザ サン デイズ
+the sunshine underground,サンシャイン アンダー グラウンド
+the ting tings,ザ ティン ティン ズ
+the view,ザ ビュー
+the vines,ザ ヴァイン ズ
+the virgins,ザ ヴァージン ズ
+the white stripes,ホワイト ストライプス
+the who,ザ フー
+the zutons,ザ ズートンズ
+tokio hotel,トキオ ホテル
+u 2,ユー ツー
+unkle,アンクル
+van halen,ヴァン ヘイレン
+velvet crush,ベルベット クラッシュ
+velvet revolver,ベルベット リボルバー
+white lies,ホワイト ライズ
+wiggle,ウィグル
+weezer,ウィーザー
+wolfmother,ウルフ マザー
+wu tang clan,ウータン クラン
+yeah yeah yeahs,ヤー ヤー ヤー ズ
+ying yang twins,イン ヤン ツインズ
+zz top,ジージー トップ
+a ha,ア ハ
+massive attack,マッシヴ アタック
+sweetbox,スウィート ボックス
+t a t u,タトゥー
+tahiti 80,タヒチ エイティ
+twenty one pilots,トゥエンティ ワン パイロッツ
+underworld,アンダー ワールド
+zebrahead,ゼブラ ヘッド
+yngwie malmsteen, イングヴェイ マルムスティーン
+megadeth,メガデス
+iron maiden,アイアン メイデン
+king crimson,キング クリムゾン
+impellitteri,インペリテリ
+bigbang,ビッグバン
+b b king, bb king,ビービー king,b b キング, bb キング ビービー キング
+john sykes,ジョン サイクス
+mötley crüe, motley crue,モトリー クルー
+bap=>bap,b.a.p
+ビエピ=>ビエピ,b.a.p
+バンド メイド=>バンド メイド,band maid
+ジョンスコ=>ジョンスコ,ジョン スコフィールド
+ルナ シー,luna sea
+サザン,サザン オールスターズ,southern all stars
+ラルク,l arc en ciel,ラルク アン シエル
+judy and mary,ジュディ アンド マリー,ジュディマリ
+mr children, ミスチル,ミスター チルドレン
+one ok rock, ワンオク ロック, ワンオク
+セカオワ,sekai no owari,世界 の 終わり,セカイ の オワリ
+fear and loathing in las vegas,フィアー アンド ロージング イン ラスベガス
+gacharic spin, ガチャリック スピン
+toshi => toshl, toshi
+ベリーズ 工房, berryz 工房
+モーニング 娘,モー娘
+ももクロ,ももいろ クローバー z
+babymetal, baby metal, ベイビー メタル
+man with a mission,マン ウィズ ア ミッション
+galileo galilei,ガリレオ ガリ レイ
+チャゲアス,チャゲ & 飛鳥
+ヤイコ,矢井田 瞳
+jsb, j soul brothers
+ガルニデリア, garnidelia
+ドリカム,dreams come true
+筋少,筋肉 少女 帯
+kana boon,カナ ブーン
+バンプス,vamps
+ccb, c c b
+キスマイ,kis my ft 2
+seventeen,seven teen
+wands,ワンズ
+リンドバーグ,lindberg
+boowy,bo wy
+ボウイ => boowy,bo wy,ボウイ
+pe z,ペズ
+hey say jump,ヘイセイ ジャンプ
+the brilliant green, ブリリアント グリーン
+funky monkey babys,ファンキー モンキー ベイビーズ, ファンモン
+bump of chicken,バンプ オブ チキン
+back on,バック オン
+do as infinity,ドゥ アズ インフィニティ
+siam shade, シャム シェイド
+chemistry, ケミストリー
+w inds,ウインズ
+asian kung fu generation,アジアン カンフー ジェネレーション,アジカン
+blue encount,ブルー エンカウント
+granrodeo,グラン ロデオ
+tm revolution, t m revolution, tmrevolution,tm レボリューション, t m レボリューション,t m r,tmr
+tm network,tm ネットワーク, tmn
+the alfee,アルフィー,ジ アルフィー
+abc z, a b c z,abcz
+キンキ キッズ,kinki kids
+オカモト ズ,okamoto s,okamotos
+マン ウィズ ア ミッション,man with a mission, mwam
+ザ イエロー モンキー,the yellow monkey
+イエモン,イエロー モンキー=>イエモン, イエロー モンキー, the yellow monkey
+オフコース,off course
+ハイスタ=>ハイスタ,ハイ スタンダード,hi standard
+ハイ スタンダード,hi standard
+crazy ken band,クレイジー ケン バンド
+九 学,九州 学院
+日大,日本 大学
+宮崎 日大,宮崎 日本 大学
+専 松, 専 大 松戸
+早 実,早稲田 実業
+0 ヶ月
+0 時
+0 歳
+1 kg
+1 ヶ月
+1 円
+1 匹
+1 時
+1 歳
+1 点
+1 等地
+1 部
+10 cm
+10 kg
+10 ヶ月
+10 円
+10 匹
+10 時
+10 歳
+10 点
+10 部
+100 円
+1000 円
+11 ヶ月
+11 時
+12 ヶ月
+12 時
+13 時
+14 時
+15 時
+16 時
+17 時
+18 時
+19 時
+2 kg
+2 ピース
+2 ヶ月
+2 匹
+2 時
+2 歳
+2 点
+2 等地
+2 部
+20 cm
+20 kg
+20 時
+2010 年
+2011 年
+2012 年
+2013 年
+2014 年
+2015 年
+2016 年
+2017 年
+2018 年
+2019 年
+2020 年
+21 時
+22 時
+23 時
+24 時
+3 kg
+3 ピース
+3 ヶ月
+3 匹
+3 時
+3 歳
+3 点
+3 部
+30 cm
+30 kg
+4 kg
+4 ヶ月
+4 匹
+4 時
+4 歳
+4 点
+4 部
+40 cm
+40 年代
+5 kg
+5 ヶ月
+5 匹
+5 時
+5 歳
+5 点
+5 部
+50 cm
+50 年代
+6 kg
+6 ヶ月
+6 匹
+6 時
+6 歳
+6 点
+6 部
+60 cm
+60 年代
+7 kg
+7 ヶ月
+7 匹
+7 時
+7 歳
+7 点
+7 部
+70 cm
+70 年代
+8 kg
+8 ヶ月
+8 匹
+8 時
+8 歳
+8 点
+8 部
+80 cm
+80 年代
+9 kg
+9 ヶ月
+9 匹
+9 時
+9 歳
+9 点
+9 部
+90 cm
+90 年代
+a b c
+a little bit
+a lot of
+all of
+as for
+as one
+as well as
+b z
+back number
+back to
+can not
+can you
+come back
+come on
+do as
+do it
+do not
+do you
+for you
+get off
+go on
+go to
+going to
+hands off
+hands on
+how match
+how old
+how to
+i can
+i cant
+i d
+i have
+i ll
+i m
+i see
+i ve
+i want
+i will
+in love
+in time
+iphone 4
+iphone 4 s
+iphone 5
+iphone 5 s
+iphone 6
+iphone 6 s
+iphone 7
+iphone 8
+iphone se
+iphone x
+is it
+it is
+it s
+j pop
+j rock
+keep off
+keep on
+l 字
+let it
+let s
+let s go
+line 6
+list of
+live at
+live in
+live on
+love in
+made by
+made in
+now on sale
+objective c
+off time
+on air
+on the
+on time
+os x
+out of
+pick up
+r type
+ride on
+see you
+show time
+stand by
+stand up
+start up
+step up
+t シャツ
+t 字
+table of
+take out
+the end
+this is
+this is it
+to be
+to me
+to you
+too match
+top of
+type a
+type b
+type c
+type r
+type s
+v 字
+wake up
+want to
+we are
+we can
+windows 10
+windows 7
+windows 8
+windows 8 1
+windows xp
+x japan
+x men
+x y z
+x 線
+y 字
+you can
+スマート パス
+ニュース パス
+ネオ クラシカル
+ネオ クラシック
+ビデオ パス
+ブック パス
+ポケモン go
+一 歳
+一 等地
+七 歳
+三 歳
+九 歳
+二 歳
+二 等地
+五 歳
+八 歳
+六 歳
+十 歳
+四 歳
+第 1
+第 2
+第 3
+第 4
+第 一
+第 三
+第 二
+第 四
+aucloud => aucloud, au cloud
+auwallet => auwallet, au wallet
+autoto => autoto, au toto
+aumarket =>aumarket, au market
+lespoul=>lespoul,lespaul
+星食べよ=>星食べよ,星たべよ
+シュシュ デント=>シュシュ デント,シュッシュ デント
+ブルーツゥース=>ブルートゥース
+スゥエット=>スエット
+ジエット=>ジエット,ジェット
+髭 ダンディズム=>髭 ダンディズム,髭 男 dism
+バーベーキュー=>バーベーキュー,バーベキュー
+ティ シャツ=>ティ シャツ, t シャツ
+テイ シャツ=>テイ シャツ, t シャツ
+なが 財布=>なが 財布,長 財布
+ソリクソン=>ソリクソン,スリクソン
+パヒューム=>パヒューム,パフューム
+加川 キュウ=>加川 キュウ,加 川キュウ
+あ ベイジング エイプ=>ア ベイジング エイプ
+ステューシー=>ステューシー,ストゥーシー
+ディーフォリック=>ディーフォリック,ディーホリック
+眞鍋 かおり=>眞鍋 かをり
+ろうや ぼう=>ろうや ぼう,琅ヤ 榜
+ページュ=>ページュ,ベージュ
+チャーシング=>チャーシング,チャージング
+は しか=>は しか,はしか
+デッド バイ ディライト=>デッド バイ デイライト
+ガズパール=>ガズパール,ガスパール
+三 ガンダム=>三 ガンダム,Ξ ガンダム
+リクシーズ=>リクシーズ,リクスィーズ
+マクスエル=>マクスエル,マクスウェル
+エー ガールズ=>エー ガールズ,エイ ガールズ
+トウルー=>トゥルー
+トウー=>トウー,トゥー
+トウース=>トウース,トゥース
+スゥエット=>スゥエット,スウェット
+ツィッター=>ツィッター,ツイッター
+デトロイド=>デトロイド,デトロイト
+ベピ コロンボ=>ベピ コロンボ,ベピコロンボ
+t バッグ=>t バッグ,t バック
+ライダーズ ジャケット=>ライダーズ ジャケット,ライダース ジャケット
+食料 人類=>食料 人類,食糧 人類
+長 ざいふ,長 在府=>長 財布
+さ まぁ ず=>さ まぁ ず, さまぁ〜ず
+二 コラ=>二 コラ,ニコラ
+プリンチ ぺ=>プリンチペ
+クロミット=>クロミット,クロミッド
+ペニチュア=>ペニチュア,ペチュニア
+カピパラ=>カピパラ,カピバラ
+スポティフィー,スポティフィ=>スポティファイ
+スイマバー=>スイマーバ
+バーモンド=>バーモンド,バーモント
+しゃちよー=>しゃちよー,しゃちょー
+バーミヤン=>バーミヤン,バーミアン
+ゴット イーター=>ゴット イーター,ゴッドイーター
+ゴット フェス=>ゴット フェス,,ゴッド フェス
+ミリオン ゴット=>ミリオン ゴット,ミリオン ゴッド
+ゴット ハンド=>ゴット ハンド,ゴッド ハンド
+メタル ゴット=>メタル ゴット,メタル ゴッド
+ゴット ファーザー=>ゴット ファーザー,ゴッド ファーザー
+ゴット マザー=>ゴット マザー,ゴッド マザー
+ゴット ガンダム=>ゴット ガンダム,ゴッド ガンダム
+オー マイ ゴット=>オー マイ ゴット,オー マイ ゴッド
+フギア=>フギア,フィギュア
+へ ヴィ メタル=>へ ヴィ メタル,ヘヴィ メタル
+へ ビメ タル=>へ ビメ タル,ヘビ メタル
+べ スト =>べ スト, ベスト
+ぺ ニス =>ぺ ニス, ペニス
+星野 珈琲 店=>星野 珈琲 店, 星乃 珈琲 店
+お たから=>お たから,お宝
+川島 なおみ=>川島 なお美
+仁科 明子 => 仁科 亜季子
+脇坂 えりこ=>脇坂 えりこ,脇坂 英理子
+吉岡 りほ=>吉岡 りほ,吉岡 里帆
+はしもと まなみ=>橋本 マナミ
+せと こうじ=>せと こうじ, 瀬戸 康史
+三浦 はるま => 三浦 春馬
+真木 くろうど=>真木 蔵人
+ダンサー チノ,ダンサー chino
+なかじま けんと=>なかじま けんと, 中島 健人
+高嶋 かほ=>高嶋 かほ, 高嶋 香帆
+かどの ゆうき=>かどの ゆうき, 角野 友基
+前田 けん=>前田 けん, 前田 健
+伊藤 じゃくちゅう => 伊藤 若沖
+さいとう あすか, 齋藤 飛鳥
+北岡 しんたろう=>北岡 しんたろう,北岡 伸多朗
+地震 そくほう => 地震 速報
+立花 たかし=>立花 たかし, 立花 孝志
+桃田 けんと=>桃田 けんと, 桃田 賢斗
+林 ももか=>林 ももか,林 萌々香
+坂口 なぎさ=>坂口 なぎさ,坂口 渚沙
+中村 星 虹=>中村 星 虹,仲村 星 虹
+川谷 えのん=>川谷 えのん,川谷 絵音
+時東 あみ=>時東 あみ,時東 ぁみ
