@@ -123,22 +123,16 @@
   "mappings": {
     "dynamic": "strict",
     "properties": {
-      "item_id": {
+      "key": {
         "type": "keyword",
         "index": true,
         "doc_values": true,
         "store": false
       },
-      "rec_item_id": {
+      "val": {
         "type": "keyword",
-        "index": true, 
-        "doc_values": true,
-        "store": false
-      },
-      "score": {
-        "type": "float",
-        "index": true,
-        "doc_values": true,
+        "index": false,
+        "doc_values": false,
         "store": false
       },
       "tr_id": {

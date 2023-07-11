@@ -1,0 +1,432 @@
+{
+  "settings": {
+    "index": {
+      "number_of_shards": "1",
+      "number_of_replicas": "1",
+      "refresh_interval": "15s",
+      "knn": true,
+      "similarity": {
+        "my_similarity": {
+          "type": "scripted",
+          "script": {
+            "source": "return query.boost * (doc.freq >= 1.0 ? 1.0 : doc.freq);"
+          }
+        }
+      },
+      "analysis": {
+        "filter": {
+          "jp_synonym_filter": {
+            "type": "synonym_graph_s4",
+            "synonyms_path": "synonym_jp.txt"
+          },
+          "jp_graph_synonym_filter": {
+            "type": "synonym_graph_s4",
+            "synonyms_path": "synonym_jp_search.txt"
+          },
+          "synonym_series_filter": {
+            "type": "synonym_s4",
+            "synonyms_path": "synonym_series.txt"
+          }
+        },
+        "char_filter": {
+          "jp_mapping": {
+            "type": "mapping",
+            "mappings_path": "mapping_jp.txt"
+          },
+          "jp_mapping2": {
+            "type": "mapping",
+            "mappings_path": "mapping_jp2.txt"
+          },
+          "jp_mapping_kana_norm": {
+            "type": "mapping",
+            "mappings_path": "mapping_jp_kana_norm.txt"
+          },
+          "number_norm": {
+            "pattern": ",(\\d{3})",
+            "type": "pattern_replace",
+            "replacement": "$1"
+          }
+        },
+        "normalizer": {
+          "lowcase_normalizer": {
+            "filter": [
+              "lowercase"
+            ],
+            "type": "custom",
+            "char_filter": []
+          }
+        },
+        "analyzer": {
+          "ngram_analyzer": {
+            "filter": [
+              "lowercase"
+            ],
+            "char_filter": [
+              "jp_mapping",
+              "jp_mapping2",
+              "number_norm"
+            ],
+            "tokenizer": "ngram_tokenizer"
+          },
+          "ngram_analyzer_kana_norm": {
+            "filter": [
+              "lowercase"
+            ],
+            "char_filter": [
+              "jp_mapping_kana_norm",
+              "jp_mapping",
+              "number_norm"
+            ],
+            "tokenizer": "ngram_tokenizer"
+          },
+          "jp_analyzer": {
+            "filter": [
+              "synonym_series_filter",
+              "jp_synonym_filter"
+            ],
+            "char_filter": [
+              "jp_mapping",
+              "jp_mapping2",
+              "number_norm"
+            ],
+            "type": "custom",
+            "tokenizer": "ss_kuromoji"
+          },
+          "jp_search_analyzer": {
+            "filter": [
+              "synonym_series_filter",
+              "jp_synonym_filter",
+              "jp_graph_synonym_filter"
+            ],
+            "char_filter": [
+              "jp_mapping",
+              "jp_mapping2",
+              "number_norm"
+            ],
+            "type": "custom",
+            "tokenizer": "ss_kuromoji"
+          },
+          "jp_no_sym_analyzer": {
+            "char_filter": [
+              "jp_mapping",
+              "jp_mapping2",
+              "number_norm"
+            ],
+            "type": "custom",
+            "tokenizer": "ss_kuromoji"
+          },
+          "exact_analyzer": {
+            "filter": [
+              "lowercase"
+            ],
+            "char_filter": [
+              "jp_mapping",
+              "jp_mapping2",
+              "number_norm"
+            ],
+            "tokenizer": "keyword"
+          }
+        },
+        "tokenizer": {
+          "ss_kuromoji": {
+            "mode": "search",
+            "user_dictionary": "userdict_jp.txt",
+            "type": "kuromoji_tokenizer",
+            "discard_punctuation": "true",
+            "discard_compound_token": "true"
+          },
+          "ngram_tokenizer": {
+            "token_chars": [
+              "letter",
+              "digit"
+            ],
+            "type": "nGram",
+            "min_gram": "1",
+            "max_gram": "2"
+          }
+        }
+      }
+    }
+  },
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "id": {
+        "type": "keyword"
+      },
+      "collection_id": {
+        "type": "keyword"
+      },
+      "aid": {
+        "type": "keyword"
+      },
+      "title": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_analyzer",
+        "search_analyzer": "jp_search_analyzer",
+        "store": true
+      },
+      "title_exact": {
+        "type": "keyword"
+      },
+      "title_kana": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "ngram_analyzer_kana_norm",
+        "store": true
+      },
+      "contents": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_analyzer",
+        "search_analyzer": "jp_search_analyzer",
+        "store": true
+      },
+      "contents_kana": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "ngram_analyzer_kana_norm",
+        "store": true
+      },
+      "publisher": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_analyzer",
+        "search_analyzer": "jp_search_analyzer",
+        "store": true
+      },
+      "publisher_exact": {
+        "type": "keyword"
+      },
+      "category": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_analyzer",
+        "search_analyzer": "jp_search_analyzer"
+      },
+      "genre": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_analyzer",
+        "search_analyzer": "jp_search_analyzer"
+      },
+      "label": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_no_sym_analyzer",
+        "store": true
+      },
+      "magazine": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_no_sym_analyzer",
+        "store": true
+      },
+      "magazine_ngram": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "ngram_analyzer"
+      },
+      "magazine_exact": {
+       "type": "keyword"
+      },
+      "magazine_kana": {
+       "type": "keyword"
+      },
+      "author": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_no_sym_analyzer",
+        "store": true
+      },
+      "author_ngram": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "ngram_analyzer"
+      },
+      "author_exact": {
+         "type": "keyword"
+      },
+      "author_kana": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "ngram_analyzer_kana_norm",
+        "store": true
+      },
+      "description": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_analyzer",
+        "search_analyzer": "jp_search_analyzer",
+        "store": true
+      },
+      "series": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_analyzer",
+        "search_analyzer": "jp_search_analyzer",
+        "store": true
+      },
+      "series_exact": {
+        "type": "keyword"
+      },
+      "sample_br": {
+        "type": "integer"
+      },
+      "sample_dl": {
+        "type": "integer"
+      },
+      "yomihoudai_start_dt_br": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "yomihoudai_end_dt_br": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "yomihoudai_start_dt_dl": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "yomihoudai_end_dt_dl": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "magazine_plan_start_dt": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "magazine_plan_end_dt": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "new_flg_br": {
+        "type": "integer"
+      },
+      "new_flg_dl": {
+        "type": "integer"
+      },
+      "publish_start_dt_br": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "publish_end_dt_br": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "publish_start_dt_dl": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "publish_end_dt_dl": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "publish_start_dt": {
+        "type": "date",
+        "format": "yyyy-MM-dd'T'HH:mm:ss'Z'"
+      },
+      "is_promotion_br": {
+        "type": "integer"
+      },
+      "is_promotion_dl": {
+        "type": "integer"
+      },
+      "adult_flg": {
+        "type": "integer"
+      },
+      "ss_adult_flg": {
+        "type": "integer"
+      },
+      "thumbnail_adult_flag": {
+        "type": "integer"
+      },
+      "img_url": {
+        "type": "keyword",
+        "index": false,
+        "doc_values": false
+      },
+      "is_completed": {
+        "type": "integer"
+      },
+      "keyword": {
+        "type": "text",
+        "term_vector": "with_positions",
+        "norms": false,
+        "index_options": "offsets",
+        "similarity": "my_similarity",
+        "analyzer": "jp_analyzer",
+        "search_analyzer": "jp_search_analyzer",
+        "store": true
+      },
+      "sell_score": {
+        "type": "float"
+      },
+      "update_time": {
+        "type": "integer"
+      },
+      "delivery_type": {
+        "type": "keyword"
+      },
+      "vector": {
+        "type": "knn_vector",
+        "dimension": 512,
+        "method": {
+          "name":"hnsw",
+          "engine":"lucene",
+          "space_type": "cosinesimil",
+          "parameters":{
+            "m": 16,
+            "ef_construction": 512
+          }
+        } 
+      }
+    }
+  }
+}
